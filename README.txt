@@ -1,1 +1,1 @@
-Meu primeiro sistema no GIT, CHERI BERI ME
+Meu primeiro sistema no GIT
